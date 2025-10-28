@@ -62,8 +62,8 @@ I actively train DevOps beginners — teaching them **Linux, AWS, Docker, Jenkin
 ---
 
 ### 📫 Connect With Me  
-🌐 [LinkedIn](https://linkedin.com/in/your-link)  
-💻 [GitHub](https://github.com/yourusername)  
+🌐 [LinkedIn](https://www.linkedin.com/in/manjunathbhandari/)  
+💻 [GitHub](https://github.com/iammanjubhandari)  
 ✉️ **mbcloud15@gmail.com**
 
 ---
