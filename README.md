@@ -47,23 +47,7 @@ I leverage a comprehensive set of DevOps and Cloud tools to automate, deploy, an
 | 🖥️ **Scripting** | Bash, Python |
 | 🐧 **Operating Systems** | Linux (Ubuntu, Amazon Linux) |
 
----
 
-### 📂 Featured Projects  
-
-#### 🔹 **Containerized Spring Boot Application on AWS ECS**
-- Built a multi-stage Docker setup for a Java Spring Boot app  
-- Deployed via AWS ECS with Terraform automation  
-
-#### 🔹 **ELK Stack Setup for Centralized Logging**
-- Configured a 3-node ELK cluster on Ubuntu for production  
-- Implemented a zero-downtime upgrade strategy  
-
-#### 🔹 **Jenkins Pipeline for CI/CD on EKS**
-- Automated builds, tests, and deployments using Jenkins declarative pipelines  
-- Integrated SonarQube for code quality checks  
-
----
 
 ### 🧑‍🏫 Mentorship  
 I actively train DevOps beginners — teaching them **Linux, AWS, Docker, Jenkins, ELK, and Terraform** through **hands-on projects**.
