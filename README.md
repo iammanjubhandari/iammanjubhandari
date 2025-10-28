@@ -57,7 +57,6 @@ I actively train DevOps beginners — teaching them **Linux, AWS, Docker, Jenkin
 ### 🏆 Achievements  
 ✅ Built and maintained production infrastructure for **3+ enterprise projects**  
 ✅ Automated **80%** of manual deployments using CI/CD pipelines  
-✅ Mentored **50+ students** to start their careers in DevOps  
 
 ---
 
