@@ -47,6 +47,8 @@ I leverage a comprehensive set of DevOps and Cloud tools to automate, deploy, an
 | 🖥️ **Scripting** | Bash, Python |
 | 🐧 **Operating Systems** | Linux (Ubuntu, Amazon Linux) |
 
+### 🧑‍🏫 Tech Stack 
+![Tech Stack](./images/tech stack manju.png)
 
 
 ### 🧑‍🏫 Mentorship  
